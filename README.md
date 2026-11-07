@@ -14,7 +14,7 @@
 
 > "Pursue excellence, and success will follow." - *Rancho*
 
-### Core Lessons:
+### Important Lessons:
 * Follow your passion.
 * True friendship matters.
 * `All Izz Well!`
