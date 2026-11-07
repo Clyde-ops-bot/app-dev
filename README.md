@@ -29,4 +29,4 @@
 
 ---
 
-For additional movie information, visit [IMDb](https://www.imdb.com).
+For additional movie information, just visit [IMDb](https://www.imdb.com).
